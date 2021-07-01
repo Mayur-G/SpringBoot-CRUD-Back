@@ -1,3 +1,3 @@
 # SpringBoot-CRUD-Back
 
-This is SpringBoot CRUD bu using MySQL and Postman.
+This is SpringBoot CRUD by using MySQL and Postman.
